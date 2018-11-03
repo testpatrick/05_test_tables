@@ -8,3 +8,8 @@ table {
     background-color: yellow;
 }
 
+/* STAP 3  */
+button {
+    visibility: hidden;
+}
+
