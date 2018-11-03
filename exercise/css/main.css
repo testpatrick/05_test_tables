@@ -9,12 +9,19 @@ table {
 }
 
 /* STAP 3  */
+<<<<<<< HEAD
+=======
+/* FEEDBACK in COMMIT stap 3: moet dit echt hidden? */
+>>>>>>> fb-2018-03-11
 button {
     visibility: hidden;
 }
 
+<<<<<<< HEAD
 /* STAP 4 */
 td, th {
     border: 1px solid #000;
     padding: 10px;
 }
+=======
+>>>>>>> fb-2018-03-11
