@@ -8,3 +8,9 @@ table {
     background-color: yellow;
 }
 
+/* STAP 3  */
+/* FEEDBACK in COMMIT stap 3: moet dit echt hidden? */
+button {
+    visibility: hidden;
+}
+
